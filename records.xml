@@ -1,0 +1,14 @@
+<records>
+    <record>
+        <customer>DOM</customer>
+        <Date>2000-12-05</Date>
+        <Product>Dveri</Product>
+        <Quantity>60</Quantity>
+    </record>
+    <record>
+        <customer>HOUSE</customer>
+        <Date>2020-05-06</Date>
+        <Product>oKno</Product>
+        <Quantity>50</Quantity>
+    </record>
+</records>

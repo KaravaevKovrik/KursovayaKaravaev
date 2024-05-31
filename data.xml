@@ -1,0 +1,32 @@
+<data>
+  <records>
+    <record>
+      <customer></customer>
+      <Date></Date>
+      <Product></Product>
+      <Quantity>0</Quantity>
+    </record>
+    <record>
+      <customer></customer>
+      <Date></Date>
+      <Product></Product>
+      <Quantity>0</Quantity>
+    </record>
+    <record>
+      <customer>Danil</customer>
+      <Date>2000-05-05</Date>
+      <Product>jjghjf</Product>
+      <Quantity>20</Quantity>
+    </record>
+  </records>
+  <people>
+    <person>
+      <name></name>
+      <Role></Role>
+    </person>
+    <person>
+      <name></name>
+      <Role></Role>
+    </person>
+  </people>
+</data>
